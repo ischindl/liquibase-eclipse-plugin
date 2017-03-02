@@ -2,7 +2,7 @@
 <feature
       id="com.svcdelivery.liquibase.eclipse.feature"
       label="Liquibase Eclipse Feature"
-      version="1.2.1.qualifier"
+      version="1.3.0.qualifier"
       provider-name="SVC Delivery">
 
    <description>
